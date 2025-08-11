@@ -40,5 +40,5 @@ A simple web app to fetch and display real-time weather information for any city
   - Make sure the city name is spelled correctly.
   - Run the app on a local server (not by double-clicking the HTML file).
   - Check your browser console for errors.
-##licence
+## license
 -This project is open source and free to use.
